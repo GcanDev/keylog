@@ -1,5 +1,5 @@
 # keylog
-Simple Python keylogger for windows. 
+Simple Python keylogger for windows developed as an exercise for the Principles of Cybersecurity subject in the MSc. 
 
 Main features:
 
